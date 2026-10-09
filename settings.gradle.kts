@@ -26,3 +26,4 @@ enableFeaturePreview("TYPESAFE_PROJECT_ACCESSORS")
 
 include(":core:model")
 include(":core:common")
+include(":core:network")
