@@ -23,3 +23,5 @@ dependencyResolutionManagement {
 rootProject.name = "StockKitty"
 
 enableFeaturePreview("TYPESAFE_PROJECT_ACCESSORS")
+
+include(":core:model")
